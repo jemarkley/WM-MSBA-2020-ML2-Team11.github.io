@@ -1,9 +1,5 @@
 ---
 title: "10.5 Labs: K-Means and Hierarchical Clustering"
-knit: (function(input_file, encoding) {
-  out_dir <- 'docs';
-  rmarkdown::render(input_file, encoding=encoding,
- output_file=file.path(dirname(input_file), out_dir, 'index.html'))})
 ---
 ### 10.5.1 K-Means Clustering
 

@@ -1,0 +1,11 @@
+name: "WM-MSBA-2020-ML2-Team11"
+output_dir: "docs"
+navbar:
+  title: "W&M MSBA Spring 2020, Machine Learning II, Section 1 Team 11"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "10.5 Labs: K-Means and Hierarchical Clustering"
+      href: 10.5-labs.html
+output:
+  html_document:

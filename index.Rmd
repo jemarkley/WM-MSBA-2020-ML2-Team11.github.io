@@ -1,8 +1,5 @@
 ---
-title: "Welcome Page"
-author: "Joseph Evan Markley"
-date: "4/1/2020"
-output: html_document
+title: "MSBA Spring 2020, Section 1 Team 11 Homepage"
 ---
 
 ```{r setup, include=FALSE}

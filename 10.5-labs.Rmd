@@ -1,6 +1,7 @@
 ---
 title: "10.5 Labs: K-Means and Hierarchical Clustering"
 ---
+
 ### 10.5.1 K-Means Clustering
 
 to begin, a 50x2 matrix is populated with random normally distributed values centered at 0. The means of the first 25 rows are then shifted to create 2 artificial clusters in the data.

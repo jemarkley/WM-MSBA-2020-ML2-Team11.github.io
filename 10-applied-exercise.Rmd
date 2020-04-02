@@ -1,5 +1,5 @@
 ---
-title: "Ch10 Applied Exercise"
+title: "Chapter 10 Applied Exercise"
 ---
 In this problem, you will generate simulated data, and then perform PCA and K-means clustering on the data.
 

@@ -7,5 +7,7 @@ navbar:
       href: index.html
     - text: "10.5 Labs: K-Means and Hierarchical Clustering"
       href: 10.5-labs.html
+    - text: "Ch10 Applied Exercise"
+      href: 10-applied-exercise.html
 output:
   html_document:

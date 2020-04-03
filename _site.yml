@@ -11,3 +11,4 @@ navbar:
       href: 10-applied-exercise.html
 output:
   html_document:
+  theme: cayman
